@@ -5,7 +5,6 @@ Thumbs.db
 nbproject/*
 
 # Eclipse project files
-/.cache
 .project
 /.settings
 .buildpath
